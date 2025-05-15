@@ -53,15 +53,3 @@
 </p>
 
 ---
-
-### 📈 Ngôn Ngữ Sử Dụng Nhiều Nhất
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinG-282k4&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:00C2CB&height=120§ion=footer&text=Cảm%20ơn%20đã+ghé+thăm!&fontColor=FFFFFF" />
-</p>
