@@ -1,9 +1,30 @@
+👨‍💻 Về Mình
+
+🧑‍🎓 Sinh viên năm 3 ngành Công nghệ Thông tin tại Đại học Đà Nẵng  
+🎂 Sinh năm 2004  
+🌱 Đang học và khám phá:  
+Backend: Xây dựng API với Python (Flask, Django), Java  
+AI: Machine Learning, NLP với TensorFlow, PyTorch  
+DevOps: Tự động hóa triển khai với Docker, CI/CD
+
+📚 Đam mê:  
+Thử nghiệm ứng dụng web và AI  
+Học hỏi công nghệ mới
+
+🔧 Công Nghệ & Công Cụ
+
+📊 Thống Kê GitHub
+
+📈 Ngôn Ngữ Sử Dụng Nhiều Nhất
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1000&pause=500&color=00C2CB¢er=true&vCenter=true&width=500&lines=Xin+Chào+👋;Mình+là+WinG-282k4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=500&color=00C2CB¢er=true&vCenter=true&width=500&lines=Xin+Chào+👋,+Mình+là+WinG-282k4" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00C2CB¢er=true&vCenter=true&width=450&lines=Chào+mừng+đến+GitHub+của+mình!;Sinh+viên+IT+đam+mê+công+nghệ;Học+tại+Đà+Nẵng" />
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00C2CB¢er=true&vCenter=true&width=450&lines=Sinh+viên+IT+đam+mê+công+nghệ;Học+tại+Đà+Nẵng" />
+  </marquee>
 </p>
 
 <p align="center">
@@ -23,6 +44,7 @@
 - 📚 Đam mê:
   - Thử nghiệm ứng dụng web và AI
   - Học hỏi công nghệ mới
+  - Liqi, Javalorant
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
@@ -49,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WinG-282k4&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WinG-282k4&theme=radica l&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
