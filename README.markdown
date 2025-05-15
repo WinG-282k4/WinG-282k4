@@ -14,18 +14,18 @@
 
 ---
 
-### 👨‍💻 Về Mình
+### 🚀 Hành Trình Công Nghệ Của Tôi
 
 - 🧑‍🎓 **Sinh viên năm 3 ngành Công nghệ Thông tin** tại **Đại học Đà Nẵng**
 - 🎂 Sinh năm **2004**
-- 🌱 Đang học và khám phá:
-  - **Backend**: Xây dựng API với Python (Flask, Django), Java
-  - **AI**: Machine Learning, NLP với TensorFlow, PyTorch
-  - **DevOps**: Tự động hóa triển khai với Docker, CI/CD
+- 🌱 Đang chinh phục:
+  - **Backend**: Thiết kế và xây dựng API hiệu quả với Python (Flask, Django), Java
+  - **DevOps**: Tối ưu hóa triển khai với Docker, GitHub Actions, và pipeline CI/CD
+  - **AI**: Khám phá cơ bản về Machine Learning qua TensorFlow
 - 📚 Đam mê:
-  - Thử nghiệm ứng dụng web và AI
-  - Học hỏi công nghệ mới
-  - Liqi, Valorant
+  - Phát triển hệ thống backend mạnh mẽ và ứng dụng web
+  - Đưa quy trình triển khai lên tầm cao mới
+  - Thư giãn với Liqi, Valorant
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
@@ -36,7 +36,7 @@
 ### 🔧 Công Nghệ & Công Cụ
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,nodejs,docker,git,linux,vscode,java" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,java,docker,git,githubactions,linux,vscode" />
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WinG-282k4&theme=radica l&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WinG-282k4&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
