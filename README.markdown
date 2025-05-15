@@ -55,4 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=WinG-282k4&theme=radica l&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,100:00C2CB&height=120§ion=footer&text=Cảm%20ơn%20đã+ghé+thăm!&fontColor=FFFFFF" />
+</p>
