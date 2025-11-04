@@ -4,7 +4,7 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00C2CB¢er=true&vCenter=true&width=450&lines=Sinh+viên+IT+đam+mê+công+nghệ;Học+tại+Đà+Nẵng" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00C2CB¢er=true&vCenter=true&width=450&lines=Sinh+viên+IT+đam+mê+công+nghệ;Sinh+viên+DUT" />
   </marquee>
 </p>
 
