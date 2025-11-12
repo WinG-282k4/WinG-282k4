@@ -16,7 +16,7 @@
 
 ### 🚀 Hành Trình Công Nghệ Của Tôi
 
-- 🧑‍🎓 **Sinh viên năm 3 ngành Công nghệ Thông tin** tại **Đại học Đà Nẵng**
+- 🧑‍🎓 **Sinh viên năm 4 ngành Công nghệ Thông tin** tại **Đại học Đà Nẵng**
 - 🎂 Sinh năm **2004**
 - 🌱 Đang chinh phục:
   - **Backend**: Thiết kế và xây dựng API hiệu quả với Python (Flask, Django), Java
