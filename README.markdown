@@ -4,7 +4,7 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00C2CB¢er=true&vCenter=true&width=450&lines=Sinh+viên+IT+đam+mê+công+nghệ;Sinh+viên+DUT" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00C2CB¢er=true&vCenter=true&width=450&lines=Đang+kiếm+gì+đó+để+làm" />
   </marquee>
 </p>
 
@@ -24,7 +24,6 @@
   - **AI**: Khám phá cơ bản về Machine Learning qua TensorFlow
 - 📚 Đam mê:
   - Phát triển hệ thống backend mạnh mẽ và ứng dụng web
-  - Đưa quy trình triển khai lên tầm cao mới
   - Thư giãn với Liqi, Valorant
 
 <p align="center">
