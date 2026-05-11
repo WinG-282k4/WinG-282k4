@@ -5,7 +5,7 @@
 ### 💡 Về mình
 Mình là sinh viên năm cuối ngành Công nghệ Thông tin tại Đại học Bách khoa - Đại học Đà Nẵng (DUT). Với nền tảng vững chắc về Java và Lập trình Hướng đối tượng, mình đang định hướng phát triển chuyên sâu ở vai trò Backend Developer và kỹ sư tích hợp AI. Mình có kinh nghiệm xây dựng các hệ thống có khả năng mở rộng như ứng dụng trò chuyện và game nhiều người chơi với giao tiếp thời gian thực WebSocket.
 
-* **Học vấn:** Cử nhân Kỹ thuật Công nghệ Thông tin (GPA: 3.31/ 4.0).
+* **Học vấn:** Kỹ sư Công nghệ Thông tin (GPA: 3.31/ 4.0).
 * **Liên hệ:** npthanh60@gmail.com 
 
 ---
