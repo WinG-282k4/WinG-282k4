@@ -1,46 +1,46 @@
-# 👨‍💻 Xin chào, mình là Nguyễn Phan Thanh (WinG-282k4)
+# 👨‍💻 Hi, I'm Nguyen Phan Thanh (WinG-282k4)
 
 ---
 
-### 💡 Về mình
-Mình là sinh viên năm cuối ngành Công nghệ Thông tin tại Đại học Bách khoa - Đại học Đà Nẵng (DUT). Với nền tảng vững chắc về Java và Lập trình Hướng đối tượng, mình đang định hướng phát triển chuyên sâu ở vai trò Backend Developer và kỹ sư tích hợp AI. Mình có kinh nghiệm xây dựng các hệ thống có khả năng mở rộng như ứng dụng trò chuyện và game nhiều người chơi với giao tiếp thời gian thực WebSocket.
+### 💡 About Me
+I'm a final-year Information Technology student at Da Nang University of Science and Technology (DUT). With a solid foundation in Java and Object-Oriented Programming, I'm focusing on becoming a Backend Developer and AI integration engineer. I have experience building scalable systems such as chat applications and real-time multiplayer games using WebSocket.
 
-* **Học vấn:** Kỹ sư Công nghệ Thông tin (GPA: 3.37/ 4.0).
-* **Liên hệ:** npthanh60@gmail.com 
+* **Education:** Bachelor of Engineering in Information Technology (GPA: 3.37/4.0).
+* **Contact:** npthanh60@gmail.com
 
 ---
 
-### 🛠 Kỹ năng cốt lõi
-* **Backend Development:** Spring Boot, Django, RESTful APIs, WebSocket (STOMP), JPA/Hibernate. Lập trình kiến trúc phân tầng (Controller - Service - Repository), DTO Mapping (MapStruct).
+### 🛠 Core Skills
+* **Backend Development:** Spring Boot, Django, RESTful APIs, WebSocket (STOMP), JPA/Hibernate. Layered architecture (Controller - Service - Repository), DTO mapping (MapStruct).
 * **Database & DevOps:** MySQL, PostgreSQL, Docker, GitHub Actions (CI/CD), Microsoft Azure.
-* **AI & Computer Vision:** Tối ưu hóa YOLOv8, tiền xử lý ảnh CLAHE, phân tích chỉ số mAP, xử lý luồng dữ liệu (Data Pipeline).
+* **AI & Computer Vision:** YOLOv8 optimization, CLAHE image preprocessing, mAP analysis, data pipelines.
 
 ---
 
-### 🚀 Dự án tiêu biểu
+### 🚀 Featured Projects
 
 #### 1. 🚀 Spirit Bomb – 2D Space Shooter (Game Development & Performance Optimization)
-*Dự án công ty tập trung vào kiến trúc game, quản lý trạng thái và tối ưu hiệu năng với design pattern.*
-* **Công nghệ:** PixiJS, TypeScript, Vite, HTML5.
-* **Chi tiết triển khai:**
-  * Phát triển game bắn máy bay 2D nhiều màn chơi, gồm kẻ địch, boss, booster, phát hiện va chạm và độ khó tăng dần.
-  * Áp dụng **Object Pool pattern** cho đạn, kẻ địch và vật phẩm: cấp phát trước, tái sử dụng thay vì tạo/hủy liên tục.
-  * Áp dụng **Factory pattern** để sinh các loại kẻ địch và vật phẩm rơi tương ứng.
-  * Xây dựng hệ thống scene và UI hoàn chỉnh: quản lý trạng thái game, hiệu ứng âm thanh, particle effect, tải asset và lưu tiến trình người chơi.
-* **Mã nguồn:** [Spirit Bomb](https://github.com/WinG-282k4/Space-shooter)
+*A company project focused on game architecture, state management, and performance optimization using design patterns.*
+* **Tech Stack:** PixiJS, TypeScript, Vite, HTML5.
+* **Highlights:**
+  * Developed a multi-level 2D space shooter featuring enemies, boss battles, boosters, collision detection, and progressive difficulty scaling.
+  * Applied the **Object Pool pattern** to bullets, enemies, and items: pre-allocating and reusing objects instead of repeatedly creating and destroying them.
+  * Applied the **Factory pattern** to spawn enemy types and their corresponding item drops.
+  * Built a complete scene and UI system with game-state management, sound effects, particle effects, asset loading, and player progress persistence.
+* **Source Code:** [Spirit Bomb](https://github.com/WinG-282k4/Space-shooter)
 
 #### 2. 🌐 OCR_UIToCode Backend API (Web Architecture)
-*Dự án tập trung vào thiết kế RESTful API và quản lý luồng tích hợp hệ thống đa nền tảng.*
-* **Công nghệ:** Django, PostgreSQL, JWT Authentication.
-* **Chi tiết triển khai:**
-  * Lập trình RESTful API để vận hành nền tảng thiết kế UI cộng tác.
-  * Triển khai xác thực JWT và kiểm soát truy cập dựa trên vai trò chi tiết (Chủ sở hữu, Người chỉnh sửa, Người xem).
-  * Phát triển các endpoint có khả năng mở rộng hỗ trợ sửa đổi theo thời gian thực, quản lý phiên bản trạng thái đa màn hình và khả năng tạo mã linh hoạt trên HTML, React và Vue.
+*A project focused on RESTful API design and cross-platform system integration.*
+* **Tech Stack:** Django, PostgreSQL, JWT Authentication.
+* **Highlights:**
+  * Built RESTful APIs powering a collaborative UI design platform.
+  * Implemented JWT authentication and fine-grained role-based access control (Owner, Editor, Viewer).
+  * Developed scalable endpoints supporting real-time edits, multi-screen state versioning, and flexible code generation across HTML, React, and Vue.
 
 #### 3. 🧠 VinBigData_Detection (AI & Computer Vision)
-*Dự án tập trung vào nghiên cứu độc lập và ứng dụng Computer Vision trong lĩnh vực Y tế.*
-* **Công nghệ:** Python, YOLOv8, OpenCV.
-* **Chi tiết triển khai:**
-  * Huấn luyện và tinh chỉnh mô hình YOLOv8 trên bộ dữ liệu VinDr-CXR để phát hiện các dấu hiệu bất thường trên ảnh chụp X-quang lồng ngực.
-  * Quản lý phiên bản thử nghiệm (`YOLOv8m_CLAHE_v1`), tập trung vào việc áp dụng kỹ thuật cân bằng biểu đồ mức xám (CLAHE) trong bước tiền xử lý để làm nổi bật các cấu trúc y khoa mờ.
-  * Phân tích và xử lý vấn đề mất cân bằng lớp (class imbalance) đặc thù của dữ liệu y tế nhằm tối ưu hóa chỉ số mAP (Mean Average Precision).
+*An independent research project applying Computer Vision to the medical domain.*
+* **Tech Stack:** Python, YOLOv8, OpenCV.
+* **Highlights:**
+  * Trained and fine-tuned YOLOv8 on the VinDr-CXR dataset to detect abnormalities in chest X-ray images.
+  * Managed experiment versions (`YOLOv8m_CLAHE_v1`), applying CLAHE (Contrast Limited Adaptive Histogram Equalization) in preprocessing to enhance faint medical structures.
+  * Analyzed and addressed class imbalance, a common issue in medical data, to optimize mAP (Mean Average Precision).
