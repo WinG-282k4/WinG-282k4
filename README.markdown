@@ -5,7 +5,7 @@
 ### 💡 Về mình
 Mình là sinh viên năm cuối ngành Công nghệ Thông tin tại Đại học Bách khoa - Đại học Đà Nẵng (DUT). Với nền tảng vững chắc về Java và Lập trình Hướng đối tượng, mình đang định hướng phát triển chuyên sâu ở vai trò Backend Developer và kỹ sư tích hợp AI. Mình có kinh nghiệm xây dựng các hệ thống có khả năng mở rộng như ứng dụng trò chuyện và game nhiều người chơi với giao tiếp thời gian thực WebSocket.
 
-* **Học vấn:** Kỹ sư Công nghệ Thông tin (GPA: 3.31/ 4.0).
+* **Học vấn:** Kỹ sư Công nghệ Thông tin (GPA: 3.37/ 4.0).
 * **Liên hệ:** npthanh60@gmail.com 
 
 ---
@@ -19,14 +19,15 @@ Mình là sinh viên năm cuối ngành Công nghệ Thông tin tại Đại h�
 
 ### 🚀 Dự án tiêu biểu
 
-#### 1. 🎮 Buckshot Roulette Game (Spring Boot & System Logic)
-*Dự án tập trung vào quản lý trạng thái (state management) và xử lý luồng đồng thời.*
-* **Công nghệ:** Spring Boot Framework, HTML, CSS, Javascript, Docker, GitHub Actions.
+#### 1. 🚀 Spirit Bomb – 2D Space Shooter (Game Development & Performance Optimization)
+*Dự án công ty tập trung vào kiến trúc game, quản lý trạng thái và tối ưu hiệu năng với design pattern.*
+* **Công nghệ:** PixiJS, TypeScript, Vite, HTML5.
 * **Chi tiết triển khai:**
-  * Thiết kế backend trò chơi nhiều người chơi theo thời gian thực, xử lý các phiên đồng thời bằng Spring WebSocket (STOMP) và quản lý trạng thái trò chơi đồng bộ.
-  * Lập trình logic trò chơi phức tạp tập trung vào kiểm soát đồng thời và quản lý phiên hiệu quả.
-  * Giảm thời gian triển khai bằng cách tự động hóa CI/CD với GitHub Actions và container hóa bằng Docker.
-* **Mã nguồn:** [Buckshot_Roulette_Game](https://github.com/WinG-282k4/Buckshot_Roulette_Game)
+  * Phát triển game bắn máy bay 2D nhiều màn chơi, gồm kẻ địch, boss, booster, phát hiện va chạm và độ khó tăng dần.
+  * Áp dụng **Object Pool pattern** cho đạn, kẻ địch và vật phẩm: cấp phát trước, tái sử dụng thay vì tạo/hủy liên tục.
+  * Áp dụng **Factory pattern** để sinh các loại kẻ địch và vật phẩm rơi tương ứng.
+  * Xây dựng hệ thống scene và UI hoàn chỉnh: quản lý trạng thái game, hiệu ứng âm thanh, particle effect, tải asset và lưu tiến trình người chơi.
+* **Mã nguồn:** [Spirit Bomb](https://github.com/WinG-282k4/Space-shooter)
 
 #### 2. 🌐 OCR_UIToCode Backend API (Web Architecture)
 *Dự án tập trung vào thiết kế RESTful API và quản lý luồng tích hợp hệ thống đa nền tảng.*
