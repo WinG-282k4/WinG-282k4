@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Nguyen Phan Thanh (WinG-282k4)
+# 👨‍💻 Hi, I'm Thanh
 
 ---
 
